@@ -6,9 +6,10 @@ import (
 
 func main() {
 
-	s1 := puppy.Bark()
-	s2 := puppy.Barks()
+	// 	s1 := puppy.Bark()
+	// 	s2 := puppy.Barks()
 
-	println(s1)
-	println(s2)
+	// 	println(s1)
+	// 	println(s2)
+	puppy.BigBark()
 }
